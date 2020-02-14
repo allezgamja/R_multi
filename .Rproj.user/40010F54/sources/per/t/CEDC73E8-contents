@@ -1,0 +1,57 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- meta는 부연설명-->
+  <title>맛보기 HTML</title>
+</head>
+<body>
+  <h1>폼태그 학습</h1>
+  <hr>   <!-- 싱글사이즈 태그, 엠티태그: 컨텐트가 필요없다-->
+  <form method="get" action="https://search.naver.com/search.naver">            <!-- 시작태그,종료태그 둘다: 더블사이즈 태그-->
+  <!-- action에 검색할 대상의 url을 넣어줘야 한다. -->
+    검색단어 : <input type="text" name="query"> 
+    <!--  name을 맞춰주는 게 중요. 네이버 링크에 query=가나다 를 보고 알수있다-->
+    <input type="submit" value="검색">
+  </form>
+  <hr>
+  <h1>GET 방식 테스트</h1>
+  <form method="get" action="http://unico2013.dothome.co.kr/crawling/get.php">         
+    이름 : <input type="text" name="name"><br> 
+    나이 : <input type="text" name="age"><br> 
+    <input type="submit" value="Query전달(GET)">
+  </form>
+  <hr>
+  <h1>POST 방식 테스트</h1>
+  <form method="post" action="http://unico2013.dothome.co.kr/crawling/post.php">         
+    이름 : <input type="text" name="name"><br> 
+    나이 : <input type="text" name="age"><br> 
+    <input type="submit" value="Query전달(POST)">
+  </form>
+</body>
+</html>
+</body>
+</html>
+
+
+<!--웹 클라이언트(브라우저)에서 웹 서버에게 요청할 때 함께 전달하는 name과 value로 구성된 문자열을 Query 문자열이라고 한다. 이때 Query 문자열을 서버에게 전달하는 방식은 두 가지가 있다. 
+1) GET : 요청 문자열 뒤에 ? 기호와 함께 추가하여 전달. e.g. ?query=alphabet, 검색엔진
+다 좋은데 query 문자열이 밖으로 보여진다.
+2) POST : 요청 바디 안에 들어가며 외부에 공개되지 않는다. e.g.로그인, 회원가입, 결제-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

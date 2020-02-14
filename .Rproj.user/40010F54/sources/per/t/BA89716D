@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572912915644.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2715756787",
+    "id" : "BA89716D",
+    "lastKnownWriteTime" : 1572951245,
+    "last_content_update" : 1572951245598,
+    "path" : "C:/Rstudy/실습제출답안/dplyr_lab2.R",
+    "project_path" : "실습제출답안/dplyr_lab2.R",
+    "properties" : {
+        "cursorPosition" : "18,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 29,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

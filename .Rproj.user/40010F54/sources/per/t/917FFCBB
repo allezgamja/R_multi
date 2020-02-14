@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572222110140.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "191724254",
+    "id" : "917FFCBB",
+    "lastKnownWriteTime" : 1572955199,
+    "last_content_update" : 1572955199261,
+    "path" : "C:/Rstudy/day6.R",
+    "project_path" : "day6.R",
+    "properties" : {
+        "cursorPosition" : "10,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

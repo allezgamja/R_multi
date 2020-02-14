@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571981583678.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3645078499",
+    "id" : "5654B2FA",
+    "lastKnownWriteTime" : 1572951341,
+    "last_content_update" : 1572951341092,
+    "path" : "C:/Rstudy/lab_08.R",
+    "project_path" : "lab_08.R",
+    "properties" : {
+        "cursorPosition" : "69,57",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572430055151.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "462689602",
+    "id" : "BB0712A9",
+    "lastKnownWriteTime" : 1572435244,
+    "last_content_update" : 1572435244,
+    "path" : "C:/Rstudy/Daily Summary/example1.R",
+    "project_path" : "Daily Summary/example1.R",
+    "properties" : {
+        "cursorPosition" : "132,39",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 19,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

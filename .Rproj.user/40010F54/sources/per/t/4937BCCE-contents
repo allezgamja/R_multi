@@ -1,0 +1,106 @@
+<!--주석은 이 안에 넣기 -->
+<!-- html은 웹페이지의 내용을 구조적으로 나눔 -->
+<!-- css는 html 태그에 대하여 세세하게 스타일을 적용. html 없으면 사용 못함 -->
+<!-- JavaScript: 웹페이지상 어떤 액션이 발생했을 때 이런 기능이 일어나도록 하겠다.-->
+<!-- JavaScript: 어느 위치에 하든 상관없다. 그러나 가급적 성능을 위해 끝부분에 구현-->
+<!--a는 css 선택자 역할. 현재 설정은 빨간 글씨에 밑줄 없음 -->
+<!--css 지정하려면 태그 안에 있어야 한다. 혹은 style tag 넣어준다. -->
+<!--개행처리 하고싶을 땐 br 코드 -->
+<!--가까이 있는 것이 우선순위 -->
+<!-- 부분만 바꿀 때는 span을 쓴다. -->
+<!--.target1은 클래스 선택자 예시-->
+<!--div와 span은 행을 단독으로 적용할 거냐(div), 부분으로 적용할거냐(span) -->
+<!--type, class, id, child, attribute 선택자는 꼭 알아야 한다.-->
+<!-- css3-cheat-sheet 참고 -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- meta는 부연설명. 보이지 않는 정보를 제공-->
+  <title>맛보기 HTML</title> <!-- 탭에 표시됨-->
+  <style>
+    a {
+      color : red;
+      text-decoration : none;
+    }
+    a:hover {
+      font-weight: bold;
+    }
+    span {
+      background-color : yellow;
+    }
+    .target1 {                  
+      color : #ff0080;
+    }
+    .target2 {
+      color : green;
+    }
+    h3 > span {
+      font-size : 3em;
+      <!-- 부모가 h3인 span 태그 의미, 3em=3배 -->
+      <!-- h3 > span은 자손선택, h3 span은 h3의 모든 span -->
+    }
+    #two {
+      opacity : 0.4;
+    }
+    <!-- id선택자.two라는 id속성을 갖는 태그 -->
+    <!-- 여러 태그에 공통적인 이름 부여할 때는 class-->
+    <!-- 유니크하게 하나에만 부여할 때는id-->
+  </style>
+</head>
+<body>
+  <h1>HTML <span class="target1">학습</span></h1> 
+  <hr> <!--수평선, 분리선 -->
+  <h2 class="target1">HTML을 학습합니다.</h2>  <!--시작태그,종료태그 필요-->
+  <h3><span>HTML</span>을 학습합니다.</h3>
+  <!-- 렌더링: 각각의 html언어를 읽어서 알맞은 형태로 내보냄-->
+  <!-- 파싱: html내용을 읽고 어떤 태그인지 파악-->
+  <h4>HTML을 학습합니다.</h4>
+  <h5>HTML을 학습합니다.</h5>
+  <h6>HTML을 학습합니다.</h6>
+  <div style="color:blue;">테스트</div>
+  <a href="https://www.w3schools.com">
+    Visit W3Schools.com!</a><br>
+  <a href="https://www.r-project.org">
+    Visit R-project.org!
+  </a><br>
+  <h1>HTML <span class="target2">재미</span>있어요</h1>
+  <img src = "totoro.png" width=100>
+  <img id="two" src = "totoro.png" width=100>
+  <img src = "totoro.png" width=100>
+  <hr>
+  <ul> <!-- unordered list-->
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+  <hr>
+  <ol> <!-- ordered list-->
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ol>
+  <script>  <!-- JavaScript-->
+    var dom = document.getElementById("two");
+    dom.onclick = function() {               <!-- onclick, onmouseover-->
+      alert("두 번째 토토로를 클릭함!")   <!-- 이벤트 핸들러-->
+    }
+    <!-- two라는 id속성을 가진 tag를 JavaScript 객체로 불러와서 찾아와라-->
+    <!-- var dom: 변수명-->
+    <!-- 클릭할 시 ""와 같은 alert이 나오도록-->
+  </script>
+</body>
+</html>
+</body>
+</html>
+
+<!-- GML(출판목적) -> SGML(Standard GML) -> HTML(웹페이지), XML 로 발전됐다. -->
+
+<!-- HTML, SQL 공부 사이트: https://www.w3schools.com/ -->
+<!-- 꺽쇄 괄호는 태그라고 한다, 꺽쇄 괄호 안의 내용은 컨텐트-->
+<!-- br: 엔터, 내려쓰기-->
+<!-- a: 링크로 연결-->
+
+<!-- CSS: 화면에 나타나는 모양을 바꾸고 싶을 때-->
+

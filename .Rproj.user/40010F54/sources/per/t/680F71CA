@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572567686256.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "760805797",
+    "id" : "680F71CA",
+    "lastKnownWriteTime" : 1572598454,
+    "last_content_update" : 1572598454788,
+    "path" : "C:/Rstudy/Daily Summary/day10.R",
+    "project_path" : "Daily Summary/day10.R",
+    "properties" : {
+        "cursorPosition" : "24,59",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 23,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

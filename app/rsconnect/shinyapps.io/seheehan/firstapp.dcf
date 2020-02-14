@@ -1,0 +1,13 @@
+name: firstapp
+title: firstapp
+username:
+account: seheehan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1452477
+bundleId: 2579454
+url: https://seheehan.shinyapps.io/firstapp/
+when: 1573458231.3658
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

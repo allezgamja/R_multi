@@ -1,0 +1,13 @@
+name: app4
+title: app4
+username:
+account: seheehan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1452612
+bundleId: 2579578
+url: https://seheehan.shinyapps.io/app4/
+when: 1573461818.54881
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/r.png

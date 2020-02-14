@@ -1,0 +1,12 @@
+name: app3
+title: app3
+username:
+account: seheehan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1452593
+bundleId: 2579560
+url: https://seheehan.shinyapps.io/app3/
+when: 1573461591.94992
+asMultiple: FALSE
+asStatic: FALSE

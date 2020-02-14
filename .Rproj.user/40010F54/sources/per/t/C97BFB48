@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572594347625.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3154537368",
+    "id" : "C97BFB48",
+    "lastKnownWriteTime" : 1572864829,
+    "last_content_update" : 1572864829074,
+    "path" : "C:/Rstudy/실습제출답안/starbucks.R",
+    "project_path" : "실습제출답안/starbucks.R",
+    "properties" : {
+        "cursorPosition" : "11,66",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 26,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}

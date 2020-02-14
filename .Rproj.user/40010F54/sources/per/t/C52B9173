@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572336425405.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4226194919",
+    "id" : "C52B9173",
+    "lastKnownWriteTime" : 1572523457,
+    "last_content_update" : 1572523457141,
+    "path" : "C:/Rstudy/실습제출답안/navercomic.R",
+    "project_path" : "실습제출답안/navercomic.R",
+    "properties" : {
+        "cursorPosition" : "6,15",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

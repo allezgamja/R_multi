@@ -1,0 +1,24 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- meta는 부연설명-->
+  <title>맛보기 HTML</title>
+</head>
+<body>
+  <h1>17시4분10초</h1>    <!-- 정적 콘텐츠, 언제 작성하든 5시4분10초-->
+  <hr>
+  <h1></h1>
+  <script>
+    var h1dom = document.getElementsByTagName("h1")[1];   #??? 왜 두번째 인덱스 가져옴?
+    <!-- JavaScript는 인덱스 0부터 시작 -->
+    var d = new Date();
+    h1dom.textContent = d.getHours()+"시"+
+                        d.getMinutes()+"분"+
+                        d.getSeconds()+"초";
+
+  </script>
+</body>
+</html>

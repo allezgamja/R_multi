@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572251137951.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "462689602",
+    "id" : "5A800C7D",
+    "lastKnownWriteTime" : 1572598472,
+    "last_content_update" : 1572598472025,
+    "path" : "C:/Rstudy/example1.R",
+    "project_path" : "example1.R",
+    "properties" : {
+        "cursorPosition" : "183,18",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

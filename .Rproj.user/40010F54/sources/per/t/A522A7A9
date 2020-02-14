@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572495044995.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "311711271",
+    "id" : "A522A7A9",
+    "lastKnownWriteTime" : 1572523441,
+    "last_content_update" : 1572523441686,
+    "path" : "C:/Rstudy/실습제출답안/openapi.R",
+    "project_path" : "실습제출답안/openapi.R",
+    "properties" : {
+        "cursorPosition" : "56,50",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 22,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

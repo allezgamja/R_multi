@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572312665381.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "315576328",
+    "id" : "2793BDAF",
+    "lastKnownWriteTime" : 1572435244,
+    "last_content_update" : 1572435244641,
+    "path" : "C:/Rstudy/실습제출답안/scraping.R",
+    "project_path" : "실습제출답안/scraping.R",
+    "properties" : {
+        "cursorPosition" : "82,30",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572585938948.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2039662211",
+    "id" : "45441C6E",
+    "lastKnownWriteTime" : 1572598461,
+    "last_content_update" : 1572598461404,
+    "path" : "C:/Rstudy/실습제출답안/hotel.R",
+    "project_path" : "실습제출답안/hotel.R",
+    "properties" : {
+        "cursorPosition" : "23,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 25,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

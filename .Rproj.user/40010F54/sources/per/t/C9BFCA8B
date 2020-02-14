@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572328254374.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3213290520",
+    "id" : "C9BFCA8B",
+    "lastKnownWriteTime" : 1572337854,
+    "last_content_update" : 1572337854282,
+    "path" : "C:/Rstudy/실습제출답안/movie2.R",
+    "project_path" : "실습제출답안/movie2.R",
+    "properties" : {
+        "cursorPosition" : "4,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
